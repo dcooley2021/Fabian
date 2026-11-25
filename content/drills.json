@@ -112,7 +112,7 @@
       "tell": "It matches something you ordered, asks for no payment, and sends you to your own account.",
       "action": "Nothing to do. Check your account if you want tracking.",
       "difficulty": 1,
-      "check": false
+      "check": true
     },
     {
       "id": "delivery-03",
@@ -492,7 +492,7 @@
       "tell": "No bank, agency or company asks you to use a crypto machine. Keeping you on the line stops you from checking.",
       "action": "Hang up. Call your bank on the number on your card.",
       "difficulty": 2,
-      "check": false
+      "check": true
     },
     {
       "id": "prize-01",
